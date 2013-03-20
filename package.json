@@ -1,0 +1,33 @@
+{
+  "name": "cooriented",
+  "version": "0.0.0",
+  "description": "Checks relative orientation of cells",
+  "main": "cooriented.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "tap": "~0.4.0"
+  },
+  "scripts": {
+    "test": "tap test/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mikolalysenko/cooriented.git"
+  },
+  "keywords": [
+    "simplicial",
+    "complex",
+    "cell",
+    "triangle",
+    "homology",
+    "cohomology",
+    "orientation"
+  ],
+  "author": "Mikola Lysenko",
+  "license": "BSD",
+  "readmeFilename": "README.md",
+  "gitHead": "9857d05784e660f0e8120890160287257fbe9847"
+}
