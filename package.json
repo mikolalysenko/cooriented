@@ -1,6 +1,6 @@
 {
   "name": "cooriented",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Checks relative orientation of cells",
   "main": "cooriented.js",
   "directories": {
